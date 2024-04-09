@@ -130,8 +130,8 @@ body {
   font-size: 48px;
 }
 
-footer {
-  position: absolute;
+footer p{
+  position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
